@@ -79,6 +79,7 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+
 # Social Sharing
 twitter:
   username               :
@@ -276,6 +277,8 @@ compress_html:
   ignore:
     envs: development
 
+include: ["_pages"]
+
 
 # Defaults
 defaults:
@@ -290,3 +293,19 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _now_archive
+  #- scope:
+  #    path: ""
+  #    type: now
+  #  values:
+  #    layout: single
+  #    author_profile: false
+  #    share: true
+  #    show_date: false
