@@ -8,9 +8,9 @@ header:
 excerpt: >
   phd candidate studying geomorphology at the University of Oregon
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/df-mappingv2.png
     alt: "fire slides"
-    title: "post-fire debris flows"
+    title: "disturbance affects on sediment budget"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/df-mapping/"
     btn_class: "btn--primary"
