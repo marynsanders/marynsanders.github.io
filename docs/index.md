@@ -1,4 +1,4 @@
-![72F76BE0-A407-4586-8337-C80885487294_1_105_c](https://github.com/marynsanders/marynsanders.github.io/assets/52716867/6fdceae5-9917-41ac-9c69-cdb3fd1e73ed)---
+---
 layout: splash
 permalink: /
 hidden: false
