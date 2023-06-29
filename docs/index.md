@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: false
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#2f3036"
   overlay_image: /assets/images/panorama-fan.JPG
 excerpt: >
   phd candidate studying geomorphology at the University of Oregon
