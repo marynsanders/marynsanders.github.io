@@ -13,8 +13,8 @@ feature_row:
     title: "disturbance affects on sediment budget"
     excerpt: "using high resolution aerial lidar products to map fans, catchments, streams, and debris flow events to understand the effects of fire within an active volcanic landscape"
     url: "/docs/df-mapping/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
   - image_path: /assets/images/snowy-cliffs.jpeg
     alt: "alpine basalt landslide initiaton"
     title: "snowmelt and springflow debris flow initiation"
