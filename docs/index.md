@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/leavens-cliffs.JPG
+  overlay_image: /assets/images/panorama-fan.JPG
 excerpt: >
   phd candidate studying geomorphology at the University of Oregon
 feature_row:
