@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: false
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#2f3036"
   overlay_image: /assets/images/panorama-fan.JPG
 excerpt: >
   phd candidate studying geomorphology at the University of Oregon
@@ -13,8 +13,8 @@ feature_row:
     title: "disturbance affects on sediment budget"
     excerpt: "using high resolution aerial lidar products to map fans, catchments, streams, and debris flow events to understand the effects of fire within an active volcanic landscape"
     url: "/docs/df-mapping/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
   - image_path: /assets/images/snowy-cliffs.jpeg
     alt: "alpine basalt landslide initiaton"
     title: "snowmelt and springflow debris flow initiation"
