@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#2f3036"
-  overlay_image: /assets/images/panorama-fan.JPG
+  overlay_image: /assets/images/panorama_gradient.png
 excerpt: >
   phd candidate studying geomorphology at the University of Oregon
 feature_row:
