@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "research"
-    url: https://marynsanders.github.io/research/
   - title: "home"
     url: https://marynsanders.github.io/
+  - title: "research"
+    url: https://marynsanders.github.io/research/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
