@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-# {% include base_path %}
-
 Education
 ======
 * Earth Sciences Ph.D – University of Oregon, current
@@ -36,22 +34,17 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* paper 
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* poster 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* ta
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* SPICE
+* IgDEAS mentorship
