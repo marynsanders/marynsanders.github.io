@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/snowy-cliffs.jpeg
     alt: "alpine basalt landslide initiaton"
-    title: "snowmelt and springflow debris flow initiation"
+    title: "snowmelt- and springflow-initiated debris flow events"
     excerpt: "using SNOTEL and satellite based products to constrain snowmelt + mapping springs with a forward-looking infrared camera to better understand hydrologic triggering mechanisms in alpine landscapes"
     url: "/docs/df-mechanics/"
     btn_class: "btn--primary"
