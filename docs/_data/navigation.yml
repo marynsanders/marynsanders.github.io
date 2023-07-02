@@ -4,8 +4,8 @@ main:
     url: https://marynsanders.github.io/
   - title: "research"
     url: https://marynsanders.github.io/research/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "cv"
+    url: /cv/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
