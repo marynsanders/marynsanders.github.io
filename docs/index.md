@@ -12,7 +12,7 @@ feature_row:
     title: "about me!"
     alt: "me!"
     excerpt: "marynie!"
-    url: "/docs/cv/"
+    url: "marynsanders.github.io/cv/"
     btn_class: "btn--primary"
     btn_label: "CV"
   - image_path: /assets/images/snowy-cliffs.jpeg
