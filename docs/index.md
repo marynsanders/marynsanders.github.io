@@ -13,8 +13,8 @@ feature_row:
     title: "disturbance affects on sediment budget"
     excerpt: "using high resolution aerial lidar products to map fans, catchments, streams, and debris flow events to understand the effects of fire within an active volcanic landscape"
     url: "/docs/df-mapping/"
-    # btn_class: "btn--primary"
-    # btn_label: "Learn more"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/snowy-cliffs.jpeg
     alt: "alpine basalt landslide initiaton"
     title: "snowmelt and springflow debris flow initiation"
@@ -22,11 +22,11 @@ feature_row:
     url: "/docs/df-mechanics/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/root-model.png
-    alt: "roots from lidar!"
-    title: "spatial heterogeneity of root strength"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/roots/"
+  - title: "about me!"
+    image_path: /assets/images/me-tree.jpeg
+    alt: "me!"
+    excerpt: "marynie!"
+    url: "/docs/cv/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
