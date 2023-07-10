@@ -2,8 +2,8 @@
 main:
   - title: "home"
     url: https://marynsanders.github.io/
-  - title: "research"
-    url: /research/
+  #- title: "research"
+  #  url: /research/
   - title: "cv"
     url: /cv/
   # - title: "Sample Collections"
