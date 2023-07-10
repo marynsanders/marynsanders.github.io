@@ -1,13 +1,12 @@
 ---
 layout: single
-title: research
+title: Research
 permalink: /research/
 ---
-My name is maryn and I am a geomorphologist.
 
-### Landscape response to disturbance
+### Understanding Western Oregon erosional response to wildfire disturbance
 
-I am using debris flow fans in the Columbia River Gorge to quantify post-wildfire erosion 
+I am using debris flow fans in the Columbia River Gorge to quantify post-wildfire erosion in contrast with typical storm-related... 
 
 ### Snowmelt and springflow influence on debris flow generation
 
