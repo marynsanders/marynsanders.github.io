@@ -7,44 +7,80 @@ author_profile: true
 
 Education
 ======
-* Earth Sciences Ph.D – University of Oregon, current
+* Earth Sciences Ph.D Candidate – University of Oregon, current
 * Geophysics B.A. – University of California, Berkeley 2020
 * Geology, Physics, Mathematics A.S. – Sierra College 2018
 
+* Relevant coursework: Digital Elevation Modeling, Slope and Embankment Design, Introduction to Hydrology, Geomophology, Fluvial Geomorphology, Soil Biogeochemistry, Continuum Mechanics, Fluid Mechanics, Mineralogy, Structural Geology, Sedimentology and Statigraphy, Differential Equations, Linear Algebra, Multivariable Calculus, General Chemistry, Calculus-based Physics
+
 Work experience
 ======
-* March 2019 - July 2021: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Bill Dietrich
+* July 2020 - Sept 2021: Staff Lab Assistant
+  * Eel River Critical Zone Observatory at University of California, Berkeley
+  * Duties included: data management, installing soil moisture sensors and dataloggers,  monthly neutron probe groundwater data collection and analysis, collected bi-weekly soil moisture isotope samples, ordering equipment for installations and repairs, updating field site maps in QGIS and ArcGIS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2019 - July 2020: Student Research Assistant
+  * Eel River Critical Zone Observatory at University of California, Berkeley
+  * Duties included: Collecting monthly groundwater dynamics data with neutron probe at two field sites in Williams, CA and Branscomb, CA. Experience with hiking in heat, carrying heavy equipment, driving a 4WD truck. 
   
-Skills
+Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reader for The Water Planet, Jan - May 2020
+  * Professor: Bill Dietrich - University of California, Berkeley
+  * Duties included: assisting with lab set-up, grading homework assignments and exams
+  
+* Reader for Geomorphology, Aug - Dec 2019
+  * Professor: Bill Dietrich - University of California, Berkeley
+  * Duties included: attending lecture, grading labs and reports, assisting with labs and field trips
+
+* Physics Tutor, Jan - May 2018
+  * Professor: Aviva Shackell - Sierra College
+  * Duties included: tutoring at a physics learning center on campus where any student enrolled in any physics course on campus could seek help
+
+* Chemistry Peer Tutor, Aug - Dec 2017
+  * Professor: Stuart Hay - Sierra College
+  * Duties included: in-class tutor to help with problem solving and questions, held office hours outside of class time for additional questions and group problem solving 
+
+Honors and Awards
+======
+* National Science Foundation Graduate Research Fellowship - 2021
+* Univeristy of California, Berkeley Earth and Planetary Sciences Departmental Citation - 2020
+* Highest Distinction in General Scholarship - 2020
+* Charles H. Ramsden Endowed Scholarship - 2019
+* Summer Undergraduate Research Fellowship - 2019
 
 Publications
 ======
-* paper 
+1. Hahm, W.J., Dralle, D.N., Sanders M.A., Bryk, A.B., Fauria, K.E., Huang, M.H., Hudson-Rasmussen, B., Nelson, M.D., Pedrazas, M.A., Schmidt, L., Whiting, J., Dietrich, W.E., Rempe, D.M. (2022), Bedrock water storage dynamics under extreme drought consequences for plant water availability, recharge, and runoff, Water Resources Research, doi.org/10.1029/2021WR031781
+
   
-Talks
+Presentations
 ======
-* poster 
-  
-Teaching
-======
-* ta
+* American Geophysical Union Fall Meeting - Dec 2021
+  * Online Poster Presentation: What is the stable isotope moisture record generated in soils and shallow saprolite across a seasonal wet-up and dry-down cycle in a Mediterranean climate?
+ 
+* Undergraduate Honors Thesis Presenation, Earth and Planetary Sciences at Univeristy of California, Berkeley - May 2020
+  * Oral Presentation: An assessment of consecutive rainfall induced shallow landsliding events by high resolution lidar surveys and field mapping
+ 
+* American Geophysical Union Fall Meeting - Dec 2019
+  *  Poster Presentation: The role of small shallow landslides in landscape evolution as revealed by high resolution differential lidar surveys and field mapping
 
 Service and leadership
 ======
 * SPICE
 * IgDEAS mentorship
+
+Skills
+======
+* Coding:
+   * Python
+   * MATLAB
+   * R
+* GIS
+* Outdoor skills:
+   * camping
+   * climbing
+   * backpacking
+* Earth sciences:
+   * seismic array deployment
+   * geomorphic mapping
