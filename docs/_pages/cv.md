@@ -67,8 +67,10 @@ Presentations
 
 Service and leadership
 ======
-* SPICE
-* IgDEAS mentorship
+* Volunteering for Science Program to Inspire Creativity and Excellence  
+* Member of the Inclusivity and Gender Diversity in Earth and Atmospheric Sciences (IgDEAS) group at University of Oregon
+* IgDEAS undergraduate mentor
+* Co-president of the Geological Association at Berkeley, Aug 2019 - May 2020
 
 Skills
 ======
