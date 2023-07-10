@@ -3,7 +3,7 @@ main:
   - title: "home"
     url: https://marynsanders.github.io/
   - title: "research"
-    url: https://marynsanders.github.io/research/
+    url: /research/
   - title: "cv"
     url: /cv/
   # - title: "Sample Collections"
