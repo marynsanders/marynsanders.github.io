@@ -8,8 +8,10 @@ author_profile: true
 Education
 ======
 * Earth Sciences Ph.D Candidate – University of Oregon, current
-* Geophysics B.A. – University of California, Berkeley 2020
-* Geology, Physics, Mathematics A.S. – Sierra College 2018
+* Geophysics B.A. – University of California, Berkeley
+   * graduated 2020
+* Geology, Physics, Mathematics A.S. – Sierra College
+   * graduated 2018
 
 * Relevant coursework: Digital Elevation Modeling, Slope and Embankment Design, Introduction to Hydrology, Geomophology, Fluvial Geomorphology, Soil Biogeochemistry, Continuum Mechanics, Fluid Mechanics, Mineralogy, Structural Geology, Sedimentology and Statigraphy, Differential Equations, Linear Algebra, Multivariable Calculus, General Chemistry, Calculus-based Physics
 
