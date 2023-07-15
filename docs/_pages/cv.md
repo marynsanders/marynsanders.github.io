@@ -43,11 +43,12 @@ Teaching experience
 
 Honors and Awards
 ======
+* University of Oregon Department of Earth Sciences Baldwin Scholarship - 2023
 * National Science Foundation Graduate Research Fellowship - 2021
 * Univeristy of California, Berkeley Earth and Planetary Sciences Departmental Citation - 2020
-* Highest Distinction in General Scholarship - 2020
-* Charles H. Ramsden Endowed Scholarship - 2019
-* Summer Undergraduate Research Fellowship - 2019
+* Highest Distinction in General Scholarship at UC Berkeley - 2020
+* UC Berkeley Earth and Planetary Sciences Charles H. Ramsden Endowed Scholarship - 2019
+* UC Berkeley Summer Undergraduate Research Fellowship - 2019
 
 Publications
 ======
@@ -67,7 +68,8 @@ Presentations
 
 Service and leadership
 ======
-* Volunteering for Science Program to Inspire Creativity and Excellence  
+* Science Program to Inspire Creativity and Excellence Volunteer
+* Mad Duck Science Friday Volunteer
 * Member of the Inclusivity and Gender Diversity in Earth and Atmospheric Sciences (IgDEAS) group at University of Oregon
 * IgDEAS undergraduate mentor
 * Co-president of the Geological Association at Berkeley, Aug 2019 - May 2020
