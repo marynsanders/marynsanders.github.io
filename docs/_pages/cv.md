@@ -7,7 +7,7 @@ author_profile: true
 
 Education
 ======
-* Earth Sciences Ph.D Candidate – University of Oregon, current
+* Earth Sciences Ph.D Candidate – University of Oregon, <i>current</i>i>
 * Geophysics B.A. – University of California, Berkeley
    * graduated 2020
 * Geology, Physics, Mathematics A.S. – Sierra College
