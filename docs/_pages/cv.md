@@ -13,7 +13,7 @@ Education
 * Geology, Physics, Mathematics A.S. – Sierra College
    * graduated 2018
 
-* <b>Relevant coursework:</b> Digital Elevation Modeling, Slope and Embankment Design, Introduction to Hydrology, Geomorphology, Fluvial Geomorphology, Soil Biogeochemistry, Continuum Mechanics, Fluid Mechanics, Mineralogy, Structural Geology, Sedimentology and Stratigraphy, Differential Equations, Linear Algebra, Multivariable Calculus, General Chemistry, Calculus-based Physics
+* <b>Relevant coursework:</b> Digital Elevation Modeling, Slope and Embankment Design, Hydrology, Geomorphology, Fluvial Geomorphology, Soil Biogeochemistry, Continuum Mechanics, Fluid Mechanics, Mineralogy, Structural Geology, Sedimentology and Stratigraphy, Differential Equations, Linear Algebra, Multivariable Calculus, General Chemistry, Calculus-based Physics
 
 Work experience
 ======
@@ -27,6 +27,11 @@ Work experience
   
 Teaching experience
 ======
+* Teaching Assistant for Hillslope Geomorphology @ University of Oregon
+  * Septemeber - December 2024
+  * Professor: Josh Roering
+  * Duties included: teaching QGIS-based geomorphology lab course, co-leading field trips, holding office hours, grading
+ 
 * Reader for The Water Planet @ UC Berkeley
   * January - May 2020
   * Professor: Bill Dietrich 
@@ -47,24 +52,21 @@ Teaching experience
   * Professor: Stuart Hay
   * Duties included: in-class tutor to help with problem-solving and questions, held office hours outside of class time for additional questions and group problem solving 
 
-Honors and Awards
-======
-* University of Oregon Harvey E Lee Graduate Scholarship - 2023
-* University of Oregon Department of Earth Sciences Baldwin Scholarship - 2023
-* University of Oregon Department of Earth Sciences Scholarship - 2022
-* National Science Foundation Graduate Research Fellowship - 2021
-* University of California, Berkeley Earth and Planetary Sciences Departmental Citation - 2020
-* Highest Distinction in General Scholarship at UC Berkeley - 2020
-* UC Berkeley Earth and Planetary Sciences Charles H. Ramsden Endowed Scholarship - 2019
-* UC Berkeley Summer Undergraduate Research Fellowship - 2019
 
 Publications
 ======
-1. Hahm, W.J., Dralle, D.N., Sanders M.A., Bryk, A.B., Fauria, K.E., Huang, M.H., Hudson-Rasmussen, B., Nelson, M.D., Pedrazas, M.A., Schmidt, L., Whiting, J., Dietrich, W.E., Rempe, D.M. (2022), Bedrock water storage dynamics under extreme drought consequences for plant water availability, recharge, and runoff, Water Resources Research, doi.org/10.1029/2021WR031781
+1. W. J. Burns, N. C. Calhoun, J. J. Roering, M. A. Sanders, B. A. Leshchinsky, D. DeSousa, M. Olsen, Rengers F., N. Mathews (2025), Multitemporal Lidar Analysis of Pre and Post Eagle Creek Fire Debris Flows, Western Columbia River Gorge, Hood River and Multnomah Counties, Oregon.
+2. Hahm, W.J., Dralle, D.N., Sanders M.A., Bryk, A.B., Fauria, K.E., Huang, M.H., Hudson-Rasmussen, B., Nelson, M.D., Pedrazas, M.A., Schmidt, L., Whiting, J., Dietrich, W.E., Rempe, D.M. (2022), Bedrock water storage dynamics under extreme drought consequences for plant water availability, recharge, and runoff, Water Resources Research, doi.org/10.1029/2021WR031781
 
   
 Presentations
 ======
+* American Geophysical Union Fall Meeting - Dec 2024
+  * Oral Presentation: Exploring controls on debris flow volumes in steep, forested landscapes of the Columbia River Gorge, OR
+ 
+* USGS Landslide Hazards Seminar - Nov 2024
+  * Invited talk: Controls on post-fire debris flows in Oregon
+
 * American Geophysical Union Fall Meeting - Dec 2023
   * Poster Presentation: Geologic and Wildfire Controls on Debris Flow Hazard in Steep Volcanic Catchments
 
@@ -79,23 +81,38 @@ Presentations
 
 Service and leadership
 ======
-* Science Program to Inspire Creativity and Excellence Volunteer
-* Mad Duck Science Friday Volunteer
+* Science Program to Inspire Creativity and Excellence (6th grade science summer camp!) volunteer
+* Mad Duck Science Friday volunteer
 * Member of the Inclusivity and Gender Diversity in Earth and Atmospheric Sciences (IgDEAS) group at the University of Oregon
 * IgDEAS undergraduate mentor
 * Co-president of the Geological Association at Berkeley, Aug 2019 - May 2020
 
+Honors and Awards
+======
+* University of Oregon Harvey E Lee Graduate Scholarship - 2023
+* University of Oregon Department of Earth Sciences Baldwin Scholarship - 2023
+* University of Oregon Department of Earth Sciences Scholarship - 2022
+* National Science Foundation Graduate Research Fellowship - 2021
+* University of California, Berkeley Earth and Planetary Sciences Departmental Citation - 2020
+* Highest Distinction in General Scholarship at UC Berkeley - 2020
+* UC Berkeley Earth and Planetary Sciences Charles H. Ramsden Endowed Scholarship - 2019
+* UC Berkeley Summer Undergraduate Research Fellowship - 2019
+
 Skills
 ======
 * Coding:
-   * Python
-   * MATLAB
-   * R
-* GIS analysis in QGIS and ArcGIS Pro
+   * Python - proficient
+   * MATLAB - learning
+   * R - familiar
+* GIS analysis
+   * QGIS - proficient
+   * ArcGIS - familiar
 * Outdoor skills:
    * camping
-   * climbing
    * backpacking
+   * climbing
 * Earth sciences:
    * seismic array deployment
-   * geomorphic mapping
+   * geomorphic mapping - debris flow fans, channel networks, catchments
+   * landslide inventory creation
+   * implementing landslide runout models
