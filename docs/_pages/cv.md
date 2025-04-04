@@ -64,8 +64,8 @@ Teaching experience
 
 Publications
 ======
-1. W. J. Burns, N. C. Calhoun, J. J. Roering, M. A. Sanders, B. A. Leshchinsky, D. DeSousa, M. Olsen, Rengers F., N. Mathews (2025), Multitemporal Lidar Analysis of Pre and Post Eagle Creek Fire Debris Flows, Western Columbia River Gorge, Hood River and Multnomah Counties, Oregon.
-2. Hahm, W.J., Dralle, D.N., Sanders M.A., Bryk, A.B., Fauria, K.E., Huang, M.H., Hudson-Rasmussen, B., Nelson, M.D., Pedrazas, M.A., Schmidt, L., Whiting, J., Dietrich, W.E., Rempe, D.M. (2022), Bedrock water storage dynamics under extreme drought consequences for plant water availability, recharge, and runoff, Water Resources Research, doi.org/10.1029/2021WR031781
+1. W. J. Burns, N. C. Calhoun, J. J. Roering, <b>M. A. Sanders</b>, B. A. Leshchinsky, D. DeSousa, M. Olsen, Rengers F., N. Mathews (2025), Multitemporal Lidar Analysis of Pre and Post Eagle Creek Fire Debris Flows, Western Columbia River Gorge, Hood River and Multnomah Counties, Oregon.
+2. Hahm, W.J., Dralle, D.N., <b>Sanders M.A.</b>, Bryk, A.B., Fauria, K.E., Huang, M.H., Hudson-Rasmussen, B., Nelson, M.D., Pedrazas, M.A., Schmidt, L., Whiting, J., Dietrich, W.E., Rempe, D.M. (2022), Bedrock water storage dynamics under extreme drought consequences for plant water availability, recharge, and runoff, Water Resources Research, doi.org/10.1029/2021WR031781
 
   
 Presentations
