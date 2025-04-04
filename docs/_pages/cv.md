@@ -15,15 +15,24 @@ Education
 
 * <b>Relevant coursework:</b> Digital Elevation Modeling, Slope and Embankment Design, Hydrology, Geomorphology, Fluvial Geomorphology, Soil Biogeochemistry, Continuum Mechanics, Fluid Mechanics, Mineralogy, Structural Geology, Sedimentology and Stratigraphy, Differential Equations, Linear Algebra, Multivariable Calculus, General Chemistry, Calculus-based Physics
 
-Work experience
+Research experience
 ======
+* Graduate Student Researcher @ University of Oregon
+  * January 2022 - present
+  * Advisor: Josh Roering
+
 * Staff Lab Assistant @ Eel River Critical Zone Observatory, University of California, Berkeley
   * July 2020 - August 2021
   * Duties included: data management, installing soil moisture sensors and dataloggers,  monthly neutron probe groundwater data collection and analysis, collecting bi-weekly soil moisture isotope samples, ordering equipment for installations and repairs, updating field site maps in QGIS and ArcGIS
 
 * Student Research Assistant @ Eel River Critical Zone Observatory, University of California, Berkeley
   * September 2019 - July 2020
-  * Duties included: Collecting monthly groundwater dynamics data with neutron probe at two field sites in Williams, CA and Branscomb, CA. Experience with hiking in the heat, carrying heavy equipment, and driving a 4WD truck. 
+  * Duties included: Collecting monthly groundwater dynamics data with neutron probe at two field sites in Williams, CA and Branscomb, CA. Experience with hiking in the heat, carrying heavy equipment, and driving a 4WD truck.
+ 
+* UC Berkeley Geomorphology Group
+  * March 2019 - May 2020
+  * Advisor: Bill Dietrich
+  * Thesis: The role of small shallow landslides in landscape evolution as revealed by high resolution differential lidar surveys and field mapping
   
 Teaching experience
 ======
@@ -79,8 +88,9 @@ Presentations
 * American Geophysical Union Fall Meeting - Dec 2019
   *  Poster Presentation: The role of small shallow landslides in landscape evolution as revealed by high resolution differential lidar surveys and field mapping
 
-Service and leadership
+Professional Service
 ======
+* Session Convener for Earth and Planetary Surface Processes General Poster Session
 * Science Program to Inspire Creativity and Excellence (6th grade science summer camp!) volunteer
 * Mad Duck Science Friday volunteer
 * Member of the Inclusivity and Gender Diversity in Earth and Atmospheric Sciences (IgDEAS) group at the University of Oregon
